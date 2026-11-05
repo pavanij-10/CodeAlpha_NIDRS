@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database backups
+database/*backup*
+database/*before*
+
+# Temporary files
+*.log
+.DS_Store
+src/alert_analyzer_before_fix.py
